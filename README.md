@@ -5,7 +5,7 @@ This scrapper scraps the e-commerce webpage and extracts the relevant informatio
 
 1) Download this project.
 
-2) Provide the Seed List of urls. Note:- Dummy URLs already provided.
+2) Provide the Seed List of urls. `Note:- Dummy URLs already provided.`
 
 3) Run the `main.py` file.
 
