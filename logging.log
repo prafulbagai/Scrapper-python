@@ -400,3 +400,106 @@ INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): 
 DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=3 HTTP/1.1" 200 None
 DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=4 HTTP/1.1" 200 None
 DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=4 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=1 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=2 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:root:'ascii' codec can't encode character u'\xb0' in position 49: ordinal not in range(128)
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=2 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=3 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=3 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=4 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=4 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=1 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=2 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:root:'ascii' codec can't encode character u'\xb0' in position 49: ordinal not in range(128)
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=3 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=3 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=4 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=4 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=1 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=1 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=2 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/dvrs-digital-video-recorders?page=2 HTTP/1.1" 200 None
+INFO:root:'ascii' codec can't encode character u'\xb0' in position 49: ordinal not in range(128)
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/security-systems-and-alarms?page=3 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/covert-and-mobile-surveillance?page=3 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/safes-and-locks?page=4 HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=2 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=3 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.maplin.co.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /c/cctv-and-security/ip-cctv?page=4 HTTP/1.1" 200 None
